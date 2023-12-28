@@ -21,7 +21,7 @@ The project adheres to the General Responsibility Assignment Software Patterns (
 5. **High Cohesion**: Keep related behaviors in one class to enhance readability and maintainability.
 6. **Polymorphism**: Encourage the use of polymorphism to handle different types of objects.
 
-## SQL DataBase for backend
+## MySQL DataBase for backend
 
 ### Prerequisites
 
